@@ -8,6 +8,10 @@ The platform is designed as a full-stack web application with:
 - realistic mock AI inference for classification, detection, and prediction
 - a Gemini-ready chatbot integration path
 
+## Live Link
+
+- Website: https://jyotsna-smartwaste360.vercel.app/
+
 ## Problem Statement
 
 Urban waste systems often struggle with:
